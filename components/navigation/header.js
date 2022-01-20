@@ -23,7 +23,7 @@ const Header = () => {
     >
       <div className="container px-4 px-lg-5">
         <Link href="/">
-          <a className="navbar-brand">The Smelly Cats</a>
+          <a className="navbar-brand">ARK Pro</a>
         </Link>
         <button className="navbar-toggler navbar-toggler-right">
           <span className="navbar-toggler-icon"></span>
